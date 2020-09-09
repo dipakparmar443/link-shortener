@@ -1,10 +1,12 @@
 <?php
 /**
- * Plugin Name:     Link Shortener
+ * Plugin Name:     Link Shortner
  * Plugin URI:      https://wordpress.org/plugins/link-shortener/
  * Description:     Generate unique short link and share any social media.
  * Author:          Dipak Parmar
+ * Contributors: 	dipakparmar443, nareshparmar827
  * Author URI:      https://profiles.wordpress.org/dipakparmar443/
+ * Donate link:     https://www.paypal.me/dipakparmar443/
  * Text Domain:     link-shortener
  * Domain Path:     /languages
  * Version:         1.0
